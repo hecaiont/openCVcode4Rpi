@@ -26,9 +26,11 @@ opencv_image/two_cam_capture2.py
 
 *.avi
 *.mp4
+*.h264
 
 *.mp3
 *.wav
+*.pcm
 
 __pycache__
 
@@ -36,7 +38,7 @@ scp.sh
 
 image/
 video/
-
+pcm/
 docker*/
 
 
